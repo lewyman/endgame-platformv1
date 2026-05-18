@@ -31,3 +31,4 @@ Required env vars: GROQ_API_KEY, GOOGLE_APPLICATION_CREDENTIALS
 Push to main triggers production deploy. Pull latest from Vercel dashboard.
 // new deploy
 trigger redeploy after build fix
+redeploy after config reset
