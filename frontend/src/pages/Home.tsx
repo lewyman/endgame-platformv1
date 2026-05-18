@@ -1,5 +1,3 @@
-import { ArrowRight } from "lucide-react";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#0a1628] flex items-start justify-center px-4 pt-10">
@@ -16,7 +14,7 @@ export default function Home() {
           />
         </a>
         <p className="mt-6 text-sm text-blue-200">
-          Click the logo to go to Bio-Sync Academy <ArrowRight className="inline-block w-4 h-4 align-[-2px]" />
+          Click the logo to go to Bio-Sync Academy
         </p>
       </div>
     </div>
